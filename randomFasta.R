@@ -1,5 +1,5 @@
 
-
+# create fasta file with random sequences using different alphabets
 
 alphabet = c("A","T","G","C")
 
