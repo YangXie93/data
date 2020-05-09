@@ -4,6 +4,7 @@
 #include<string>
 #include<Rcpp.h>
 
+// Cut DNA-sequence in pieces and save the pieces as a fasta file
 
 //[[Rcpp::plugins(cpp14)]]
 //[[Rcpp::export]]
